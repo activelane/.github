@@ -1,393 +1,382 @@
+<div align="center">
+
 # ActiveLane
 
-### A place to create software, find software, build an audience, and turn ideas into something valuable.
+### Create software. Find an audience. Build something valuable.
 
-Software has never been easier to create.
+**ActiveLane is building a home for the next generation of software creators.**
 
-Turning software into something people actually discover, use, pay for, return to, and value is still surprisingly difficult.
+A place to create, publish, discover, use, monetize, grow, and own software.
 
-**ActiveLane is being built to change that.**
+<br>
 
-Our vision is a platform where software creators can take an idea from its earliest experiment all the way to a real product — without needing to build an entire company and ecosystem around it first.
+**Create → Publish → Discover → Use → Earn → Grow → Own**
 
-> **Create → Publish → Discover → Use → Earn → Grow → Own**
+<br>
 
----
+> **Reduce the distance between creating useful software and building lasting value from it.**
 
-## Software deserves a better ecosystem
-
-A developer can build something genuinely useful over a weekend.
-
-A designer can create a brilliant tool for their own workflow.
-
-An accountant, engineer, researcher, teacher, musician, or enthusiast can understand a problem deeply enough to imagine software that solves it.
-
-But creating the software is only the beginning.
-
-What happens next?
-
-How do people find it?
-
-How do they try it?
-
-How does the creator build an audience?
-
-How do they charge for it?
-
-How do teams use it?
-
-How does a small project become a sustainable business?
-
-And if it becomes valuable, can it eventually become something that can exist independently of its original creator?
-
-Today, answering those questions often means assembling an entire business around the software.
-
-**ActiveLane wants to bring those pieces closer together.**
+</div>
 
 ---
 
-# Imagine a world where software is more like a creator economy
+## 💡 Software has never been easier to create
 
-Millions of people create videos, music, writing, games, courses, designs, and other digital work.
+Turning software into a **real product** is another story.
 
-They have places to publish.
+You can build something useful in a weekend.
 
-Places to be discovered.
+But then come the harder questions:
 
-Profiles and audiences.
+**How do people find it?**
+**How do they try it?**
+**How do you build an audience?**
+**How do you charge for it?**
+**How does a side project become something sustainable?**
 
-Ways to follow creators.
+Today, answering those questions often means building an entire business around the software.
 
-Ways to support them.
-
-Ways to earn money.
-
-Ways for their work to spread far beyond the platform where it began.
-
-We think **software creators deserve something similar.**
-
-ActiveLane is exploring what a creator economy built specifically around software could look like.
-
-A place where you might discover an independent developer in the same way you discover a musician.
-
-Follow a creator because you like what they build.
-
-Browse products from a company you trust.
-
-Watch a tiny experimental tool grow into something thousands of people use.
-
-Or publish something yourself and discover that other people find it useful.
+**ActiveLane is exploring a different path.**
 
 ---
 
-# The ActiveLane Workbench
+## 🌍 A creator economy for software
+
+Think about how the internet works for other kinds of creators.
+
+Musicians can release music and build a following.
+
+Video creators can publish, grow an audience, and earn money.
+
+Designers can share their work and build reputations.
+
+Game developers can distribute their creations through established ecosystems.
+
+### Why shouldn't software creators have something similar?
+
+ActiveLane is exploring what a **creator economy built around software** could look like.
+
+Discover an independent developer because they built something interesting.
+
+Follow them.
+
+Explore what else they've created.
+
+Save their products.
+
+Try them.
+
+Support them.
+
+Watch an experimental side project evolve into something thousands of people use.
+
+Or become the creator yourself.
+
+---
+
+<div align="center">
+
+## ✨ From an idea to something real
+
+**Idea**
+
+↓
+
+**Build**
+
+↓
+
+**Publish**
+
+↓
+
+**Find your first users**
+
+↓
+
+**Build an audience**
+
+↓
+
+**Earn**
+
+↓
+
+**Grow**
+
+↓
+
+**Become something bigger**
+
+</div>
+
+---
+
+## 🧩 The Workbench
 
 At the heart of ActiveLane is the **Workbench**.
 
-Think of it as a personal space where software can come to you.
+Think of it as a space where software comes together around **you**.
 
-Instead of installing dozens of completely disconnected applications, compatible products can become part of a shared environment that you arrange around the way you work.
+Rather than ActiveLane deciding what your environment should be, you build it from the software and experiences that matter to you.
 
-One person might build a Workbench around development.
+A developer might create a Workbench around building software.
 
-Another around research.
+A researcher might build one around knowledge and data.
 
-Another around running a business.
+A business might build one around its internal operations.
 
-Another around writing, data, operations, content creation, finance, or an entirely different profession.
+A creator might build one around content, analytics, publishing, and community.
 
-A company could create a Workbench containing the software and workflows its teams need.
+### The Workbench is the space.
 
-The important part is that **ActiveLane itself doesn't decide what your Workbench is for.**
+### The ecosystem gives it life.
 
-Creators do.
+ActiveLane isn't trying to put every possible feature into one enormous application.
 
-Users do.
-
-Companies do.
-
-The Workbench is the space. The ecosystem gives it life.
+Instead, creators can build the things that make it useful.
 
 ---
 
-# Discover software differently
+## 🔭 Discover software differently
 
-Finding useful software shouldn't always begin with already knowing exactly what you're searching for.
+Software discovery is usually transactional:
 
-ActiveLane's vision for **Discover** is a living, social layer for software.
+> *Know what you need → search for it → compare products → install something.*
 
-Explore what people are creating.
+But what about the software you **don't know exists yet?**
 
-Follow developers, publishers, and organisations.
+ActiveLane's vision for **Discover** is a more social and exploratory way to find software.
 
-See new products taking shape.
+Follow creators and organisations.
 
-Save things for later.
+Discover new products.
 
-Share discoveries.
+See what people are building.
+
+Save interesting things.
 
 Build collections.
 
-Find creators whose work consistently interests you.
+Share discoveries.
 
-Move naturally between a creator, their profile, their products, their community, and the Marketplace.
+Explore a creator's profile and everything they've made.
 
-The goal is to make discovering software feel less like searching a catalogue and more like **exploring a world of people creating interesting things.**
+Move naturally between **people, products, discovery, and the Marketplace.**
+
+**Finding software should sometimes feel like exploring, not searching a catalogue.**
 
 ---
 
-# From side project to real product
+## 🚀 From side project to real product
 
-ActiveLane is especially interested in the enormous space between:
+ActiveLane is particularly interested in the enormous space between:
 
-> *"I built something."*
+> ### *“I built something.”*
 
-and:
+and
 
-> *"I run a software company."*
+> ### *“I run a software company.”*
 
 There should be more possibilities between those two points.
 
-A creator might publish a tiny free utility used by twenty people.
+A creator might make something used by **20 people**.
 
-Then two hundred.
+Then **200**.
 
-Then twenty thousand.
+Then **20,000**.
 
 They might keep it free.
 
-Accept support.
+Or charge €5.
 
-Charge once.
+Or build a subscription.
 
-Create a subscription.
+Or sell it to teams.
 
-Sell to teams.
+Or create several products.
 
-Offer a company edition.
+Or turn it into a standalone application.
 
-Build several related products.
+Or build a company around it.
 
-Turn it into a standalone application.
+Or eventually hand it to somebody else to take further.
 
-Form a company around it.
+### ActiveLane shouldn't decide what success looks like.
 
-Bring other people onto the project.
+A tiny tool earning its creator €200 a month can matter.
 
-Or eventually sell the product to someone who can take it further.
+So can a sustainable independent business.
 
-**ActiveLane should help at each stage without requiring every creator to pursue the next one.**
-
-Success doesn't have to mean building a billion-dollar company.
-
-A piece of software earning its creator €200 a month can be meaningful.
-
-So can €2,000.
-
-So can €20,000.
-
-So can something that never makes money but becomes invaluable to a community.
+So can something that never earns anything but becomes invaluable to a community.
 
 ---
 
-# Software you can own
+## 👥 One ecosystem, different possibilities
 
-We want software products to become more durable.
+| For people           | For creators       | For companies                |
+| -------------------- | ------------------ | ---------------------------- |
+| Discover software    | Publish ideas      | Build private ecosystems     |
+| Follow creators      | Find early users   | Distribute internal software |
+| Build your Library   | Build an audience  | Manage approved products     |
+| Shape your Workbench | Monetize products  | Create company Workbenches   |
+| Buy or subscribe     | Build a reputation | Support teams and roles      |
+| Discover new tools   | Grow a portfolio   | Control their environment    |
 
-A successful product shouldn't necessarily disappear when its creator moves on.
-
-Over time, ActiveLane wants to explore software as something that can have a genuine lifecycle:
-
-**created → published → adopted → improved → monetized → grown → transferred**
-
-That could mean bringing collaborators into a product.
-
-Moving a product into a company.
-
-Allowing another publisher to continue it.
-
-Or eventually enabling the ownership of an established software product to change hands.
-
-The long-term idea is simple:
-
-> **Useful software can become an asset — not just a repository someone eventually stops maintaining.**
+ActiveLane connects these worlds instead of treating them as unrelated systems.
 
 ---
 
-# ActiveLane shouldn't become a cage
+## 💎 Software can become an asset
 
-If somebody builds something successful through ActiveLane, success shouldn't trap them inside ActiveLane.
+Software doesn't have to end when its original creator moves on.
 
-Creators should have options.
+We want products to have a more complete lifecycle:
 
-A product might begin inside the Workbench and later become its own application.
+<div align="center">
 
-A company might distribute software through its own private environment.
+**Created → Published → Adopted → Improved → Monetized → Grown → Transferred**
 
-A creator might sell through ActiveLane while also distributing elsewhere.
+</div>
 
-A successful project might eventually outgrow ActiveLane entirely.
+A creator might bring collaborators into a project.
 
-That's okay.
+A project might become a company.
 
-**ActiveLane should create opportunities for creators, not dependencies.**
+A company might acquire a product.
 
-If something that began here eventually becomes an independent company, that's a success story.
+Another publisher might continue something its original creator no longer wants to maintain.
 
----
+### Useful software can become something durable.
 
-# For individuals
-
-ActiveLane should become a place where anyone can build a software environment around themselves.
-
-Discover interesting products.
-
-Follow creators.
-
-Collect the software you care about in your Library.
-
-Create your own Workbench.
-
-Use free and paid products.
-
-Move between devices.
-
-And continually shape your environment as your needs change.
-
-You shouldn't need to be a developer to benefit from software created by the ActiveLane community.
+Not simply a repository that eventually stops receiving commits.
 
 ---
 
-# For creators
+## 🔓 Build here. Grow beyond here.
+
+ActiveLane shouldn't become a cage.
+
+A product might begin inside the Workbench and eventually become its own application.
+
+A creator might distribute through ActiveLane **and** independently.
+
+A company might operate its own private ecosystem.
+
+A successful project might eventually outgrow ActiveLane completely.
+
+**That's a success story.**
+
+We want ActiveLane to create opportunities for creators—not dependencies.
+
+---
+
+## 🧑‍🎨 For creators
 
 ActiveLane is being built for the person who thinks:
 
-> *"I could probably build something for that."*
+> **“I could probably build something for that.”**
 
-Publish an experiment.
+Build the experiment.
+
+Publish it.
 
 Find your first users.
 
-Build a profile.
+Create a profile.
 
 Develop a reputation.
 
 Grow an audience.
 
-Understand whether people actually find your product useful.
+Learn whether people actually value what you've made.
 
-Choose how — or whether — you want to monetize it.
+Choose whether you want to monetize it.
 
-Collaborate with others.
+Collaborate.
 
-Build a portfolio of products.
+Build more.
 
-And potentially turn one small idea into something much larger.
+And maybe turn one small idea into something much larger.
 
-The ambition is to make **creating software for other people a realistic path for far more people.**
+**Creating software for other people should be a realistic creative path for far more people.**
 
 ---
 
-# For companies
+## 🏢 For companies
 
-Companies live in software.
+Companies already live inside software.
 
-But their software environments are often fragmented across public applications, internal tools, browser tabs, scripts, dashboards, legacy systems, and highly specialized workflows.
+But their software is often scattered across:
+
+**applications · browser tabs · internal tools · scripts · dashboards · legacy systems · specialized workflows**
 
 ActiveLane's longer-term vision includes private software ecosystems for organisations.
 
-A company could have its own Workbench.
+A company could have its own:
 
-Its own catalogue of approved software.
+**Workbench** · **software catalogue** · **internal products** · **publishers** · **teams** · **policies** · **distribution**
 
-Its own internally developed products.
+Companies shouldn't only be able to **buy** software through ActiveLane.
 
-Its own teams and publishers.
-
-Its own policies.
-
-Its own distribution.
-
-And, where necessary, environments that operate independently from the public ActiveLane ecosystem.
-
-This could make ActiveLane not just somewhere companies **buy software**, but somewhere they **organize, distribute, and create it.**
+Eventually, they should be able to **organize, create, distribute, and own** it too.
 
 ---
 
-# A different relationship between people and software
+## 🌱 We're early
 
-Ultimately, ActiveLane isn't about extensions, marketplaces, desktop applications, or any single interface.
-
-Those are pieces of something larger.
-
-The bigger idea is to rethink the relationship between:
-
-**people who create software**
-
-and
-
-**people who need software.**
-
-We want the distance between those two groups to become dramatically smaller.
-
-A useful idea shouldn't need millions in funding.
-
-A great developer shouldn't need to become a sales, payments, licensing, distribution, infrastructure, marketing, and operations expert before discovering whether anyone wants what they've created.
-
-And someone looking for useful software shouldn't be limited to products from companies large enough to reach them.
-
-There are potentially millions of useful software ideas that never become products.
-
-**ActiveLane exists to see what happens when more of them can.**
-
----
-
-# Where we are today
-
-ActiveLane is still early.
+ActiveLane is still being built.
 
 Very early.
 
-It is currently being built by a solo developer, and much of what you see across this organisation represents an evolving vision rather than a finished platform.
+Today, it's an ambitious project being developed by a solo developer.
 
-Ideas will change.
+There are prototypes, experiments, unfinished ideas, and plenty that will change.
 
-Experiments will fail.
+That's part of the process.
 
-Parts will be rebuilt.
+We're not interested in pretending the destination is already known.
 
-The platform will evolve as real people begin using it.
-
-That's intentional.
-
-We're more interested in building something genuinely useful than pretending the destination is already known.
+We're interested in discovering whether a better ecosystem for creating and distributing software **can exist.**
 
 ---
 
-# The north star
+<div align="center">
 
-Our goal can be reduced to one sentence:
+## Our north star
 
-> ## **Reduce the distance between creating useful software and building lasting value from it.**
+### Reduce the distance between creating useful software and building lasting value from it.
 
 ActiveLane may begin with a Workbench.
 
-Then a Marketplace.
+Then creators.
 
-Then creators, publishers, companies, discovery, distribution, commerce, and entirely new kinds of software experiences.
+Products.
 
-But the ambition is larger:
+Discovery.
 
-### **Build a home for the next generation of software creators.**
+A Marketplace.
 
-A place where someone can start with an idea.
+Companies.
 
-Build something useful.
+Commerce.
 
-Put it into the world.
+Distribution.
 
-Find the people who need it.
+And things we haven't imagined yet.
 
-And see where it goes.
+But the ambition is bigger than any individual feature.
+
+<br>
+
+# Build something.
+
+## Put it into the world.
+
+### See where it goes.
+
+<br>
 
 **Welcome to ActiveLane.**
+
+</div>
